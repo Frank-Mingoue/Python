@@ -1,0 +1,894 @@
+Full_name,gender,country,date,product_price,tax,price_paid
+Marylin Alders,Male,Canada,03/28/2021,5.36,0.0,5.36
+Hinda Harridge,Female,Canada,03/19/2021,8.32,0.0,8.32
+Erl Kilminster,Male,United States,03/17/2021,2.984,20.0,3.73
+Grata Brantl,Female,United States,03/19/2021,2.9600000000000004,20.0,3.7
+Kanya Beasant,Male,Morocco,03/24/2021,7.392,20.0,9.24
+Titos Braybrooke,Female,United States,03/25/2021,5.82,0.0,5.82
+Ava Kencott,Female,Canada,03/14/2021,6.29,0.0,6.29
+Codi Feasley,Male,France,03/08/2021,2.408,20.0,3.01
+Waylon Heersema,Male,Canada,03/09/2021,2.9600000000000004,20.0,3.7
+Guglielma Gookes,Male,France,03/23/2021,9.05,0.0,9.05
+Lief Woodcraft,Male,Canada,03/11/2021,5.71,0.0,5.71
+Bailie Wyman,Male,United States,03/16/2021,2.52,20.0,3.15
+Janice Morillas,Female,Canada,03/05/2021,4.24,20.0,5.3
+Oralie Maryon,Female,United States,03/21/2021,3.6240000000000006,20.0,4.53
+Julina Faint,Female,United States,03/24/2021,3.28,20.0,4.1
+Eve Allaway,Female,United States,03/27/2021,5.152000000000001,20.0,6.44
+Judye Behan,Female,France,03/16/2021,3.9200000000000004,20.0,4.9
+Sibeal Mounch,Male,Canada,03/01/2021,4.656000000000001,20.0,5.82
+Jeffrey Stanman,Female,France,03/12/2021,4.44,20.0,5.55
+Mendie Ayer,Male,Canada,03/05/2021,3.8880000000000003,20.0,4.86
+Muriel Pexton,Male,Canada,03/03/2021,5.376,20.0,6.72
+Ermanno Ghost,Male,Canada,03/09/2021,9.79,0.0,9.79
+Tod Willets,Male,Canada,03/02/2021,8.23,0.0,8.23
+Nobe Stobbart,Female,United States,03/14/2021,9.9,0.0,9.9
+Staford London,Male,United States,03/25/2021,2.4480000000000004,20.0,3.06
+Edi Petru,Male,United States,03/02/2021,5.408,20.0,6.76
+Tommi Ditchburn,Female,Morocco,03/28/2021,6.248,20.0,7.81
+Jillene Baudi,Female,France,03/10/2021,4.816,20.0,6.02
+Eadmund Laurent,Male,United States,03/29/2021,4.0,20.0,5.0
+Cam Francescoccio,Female,United States,03/20/2021,4.272,20.0,5.34
+Trescha McCudden,Female,France,03/02/2021,3.736,20.0,4.67
+Charmian Greenleaf,Male,France,03/11/2021,4.976,20.0,6.22
+Daisy Jobey,Male,France,03/08/2021,2.696,20.0,3.37
+Byram Dudman,Male,United States,03/20/2021,9.5,0.0,9.5
+Matthus Saket,Female,Canada,03/22/2021,3.632,20.0,4.54
+Murdock Speaks,Female,Canada,03/14/2021,3.232,20.0,4.04
+Em Dupoy,Male,United States,03/17/2021,2.7600000000000002,20.0,3.45
+Filberte O'Hickey,Female,France,03/23/2021,4.96,0.0,4.96
+Tonia Jacqueme,Male,Morocco,03/22/2021,4.232,20.0,5.29
+Karena Stirland,Male,United States,03/22/2021,8.11,0.0,8.11
+Maribelle Shiel,Male,United States,03/20/2021,2.696,20.0,3.37
+Sheba Pobjay,Male,United States,03/29/2021,7.8,0.0,7.8
+Keene Bewsy,Female,France,03/14/2021,4.21,0.0,4.21
+Georgy Morgen,Female,United States,03/16/2021,7.848000000000001,20.0,9.81
+Sylas Caffin,Female,United States,03/27/2021,9.7,0.0,9.7
+Maybelle Lile,Male,France,03/26/2021,3.104,20.0,3.88
+Shani Dumbarton,Male,France,03/14/2021,3.4,0.0,3.4
+Isiahi Mowsdell,Male,Canada,03/16/2021,9.23,0.0,9.23
+Ange Purvess,Male,United States,03/17/2021,5.256,20.0,6.57
+Odell Ricart,Male,France,03/25/2021,9.99,0.0,9.99
+Boy Tilzey,Female,France,03/25/2021,6.94,0.0,6.94
+Barrie Sigge,Female,France,03/21/2021,7.304000000000001,20.0,9.13
+Eward O' Finan,Male,United States,03/12/2021,6.66,0.0,6.66
+Haley Cocksedge,Female,United States,03/11/2021,9.35,0.0,9.35
+Renault Clowes,Female,France,03/06/2021,3.04,0.0,3.04
+Mill Haughan,Female,United States,03/17/2021,4.936,20.0,6.17
+Marlee Dyas,Male,United States,03/20/2021,6.144,20.0,7.68
+Marcus Helstrom,Female,Canada,03/11/2021,3.3840000000000003,20.0,4.23
+Kelbee Carriage,Female,Canada,03/29/2021,3.7520000000000007,20.0,4.69
+Kaitlin Doubrava,Female,France,03/29/2021,3.968,20.0,4.96
+Leonora Eburah,Female,Canada,03/25/2021,6.048,20.0,7.56
+Madlin Filyakov,Female,United States,03/19/2021,5.92,0.0,5.92
+Derick Hunnicutt,Female,France,03/02/2021,3.7200000000000006,20.0,4.65
+Jose Oliva,Male,Canada,03/16/2021,5.432,20.0,6.79
+Randolf Poskitt,Female,France,03/25/2021,8.96,0.0,8.96
+Phillipp Benedict,Female,France,03/20/2021,4.39,0.0,4.39
+Brad Ramsell,Female,United States,03/23/2021,6.032,20.0,7.54
+Kasper Asman,Female,United States,03/24/2021,4.664000000000001,20.0,5.83
+Penelope Brood,Male,Morocco,03/28/2021,6.39,0.0,6.39
+Candace Birckmann,Male,France,03/27/2021,7.744,20.0,9.68
+Patrice Mariot,Female,United States,03/16/2021,7.888,20.0,9.86
+Desirae Sappell,Female,United States,03/11/2021,2.808,20.0,3.51
+Carlye Giovannardi,Female,Canada,03/17/2021,8.43,0.0,8.43
+Ricca Mantle,Male,Canada,03/20/2021,5.5120000000000005,20.0,6.89
+Mandi Mancell,Male,France,03/14/2021,7.68,20.0,9.6
+Donavon Dilleston,Male,United States,03/25/2021,5.344,20.0,6.68
+Waite Penticoot,Male,Canada,03/17/2021,7.56,0.0,7.56
+Bonni Mathews,Male,Canada,03/30/2021,4.66,0.0,4.66
+Randy Tiebe,Female,Morocco,03/21/2021,3.9600000000000004,20.0,4.95
+Addy Berthelet,Female,France,03/06/2021,7.48,0.0,7.48
+Camey Petrolli,Female,United States,03/02/2021,5.784000000000001,20.0,7.23
+Merrill Ambrosini,Female,France,03/19/2021,8.12,0.0,8.12
+Mikaela Alberti,Male,France,03/17/2021,2.5280000000000005,20.0,3.16
+Shannan Giacomozzo,Female,United States,03/17/2021,5.8,0.0,5.8
+Winnifred Hallwood,Male,France,03/09/2021,4.848,20.0,6.06
+Devonne Clowsley,Female,United States,03/20/2021,4.71,0.0,4.71
+Nikolai Hallett,Female,France,03/23/2021,6.224,20.0,7.78
+Gerardo Antley,Male,Canada,03/06/2021,7.736000000000001,20.0,9.67
+Jinny Del Castello,Female,France,03/04/2021,4.56,0.0,4.56
+Fletch Hambers,Female,United States,03/18/2021,3.536,20.0,4.42
+Fanya Rhead,Female,United States,03/02/2021,3.2960000000000003,20.0,4.12
+Richmond Matis,Male,United States,03/30/2021,8.96,0.0,8.96
+Lay Bouchier,Male,Morocco,03/07/2021,3.4560000000000004,20.0,4.32
+Kellina Breache,Female,United States,03/02/2021,4.64,20.0,5.8
+Olivie Hlavac,Female,France,03/09/2021,7.064,20.0,8.83
+Warren Rush,Female,France,03/19/2021,2.5440000000000005,20.0,3.18
+Baxie Bisp,Male,France,03/09/2021,7.088,20.0,8.86
+Hercules Hyman,Female,France,03/27/2021,7.2,0.0,7.2
+Cordy Bagnell,Female,Canada,03/28/2021,3.72,0.0,3.72
+Kent Mathonnet,Female,United States,03/14/2021,6.136,20.0,7.67
+Alyse Skelding,Male,United States,03/06/2021,6.944,20.0,8.68
+Greggory Leverentz,Female,France,03/09/2021,7.664000000000001,20.0,9.58
+Delila Littlemore,Female,France,03/19/2021,6.328,20.0,7.91
+Michael Domini,Male,United States,03/18/2021,6.94,0.0,6.94
+Hedvig Randlesome,Female,France,03/07/2021,6.120000000000001,20.0,7.65
+Rube De Pero,Female,United States,03/02/2021,7.016,20.0,8.77
+Olly Meadowcroft,Male,United States,03/27/2021,5.736000000000001,20.0,7.17
+Tasha Monkhouse,Male,United States,03/17/2021,7.176000000000001,20.0,8.97
+Pen Jacques,Female,United States,03/25/2021,4.856000000000001,20.0,6.07
+Karrie Stacy,Female,United States,03/01/2021,7.912000000000001,20.0,9.89
+Shaun Palphreyman,Male,France,03/26/2021,7.08,20.0,8.85
+Calla Willes,Female,France,03/10/2021,9.58,0.0,9.58
+Kaleena Lewry,Male,United States,03/28/2021,7.4959999999999996,20.0,9.37
+Caryl Barrowcliff,Male,France,03/09/2021,7.03,0.0,7.03
+Guthrey Boatswain,Female,United States,03/27/2021,4.42,0.0,4.42
+Addi Hardwicke,Female,France,03/20/2021,4.720000000000001,20.0,5.9
+Lockwood Folca,Male,United States,03/01/2021,3.2,20.0,4.0
+Piotr Stang-Gjertsen,Male,France,03/11/2021,5.5040000000000004,20.0,6.88
+Nowell Nelson,Male,Canada,03/26/2021,2.424,20.0,3.03
+Hermann Sinott,Female,Canada,03/13/2021,5.312,20.0,6.64
+Auria Trumpeter,Male,France,03/27/2021,6.920000000000001,20.0,8.65
+Avery Amner,Female,United States,03/09/2021,5.98,0.0,5.98
+Calida Ilsley,Female,United States,03/29/2021,6.952,20.0,8.69
+Amelita Guard,Male,France,03/01/2021,3.568,20.0,4.46
+Greg Bernucci,Male,United States,03/17/2021,3.03,0.0,3.03
+Tobi Mennear,Female,France,03/29/2021,4.24,0.0,4.24
+Tiffy Easdon,Male,France,03/02/2021,8.79,0.0,8.79
+Flossi Hencke,Male,France,03/01/2021,3.8560000000000003,20.0,4.82
+Zelma Whitefoot,Female,France,03/27/2021,6.5280000000000005,20.0,8.16
+Gisela Aggott,Male,France,03/27/2021,5.752000000000001,20.0,7.19
+Beale Jannaway,Female,United States,03/17/2021,4.696000000000001,20.0,5.87
+Cully Carruth,Female,United States,03/05/2021,7.05,0.0,7.05
+Lyndsey Winfred,Female,United States,03/24/2021,3.93,0.0,3.93
+Lizzie Giuroni,Female,France,03/24/2021,2.4320000000000004,20.0,3.04
+Brook Fone,Male,France,03/27/2021,7.08,20.0,8.85
+Dahlia Thorius,Male,United States,03/04/2021,6.09,0.0,6.09
+Easter Currom,Female,France,03/23/2021,4.576,20.0,5.72
+Dorene Pasfield,Female,Canada,03/06/2021,2.4960000000000004,20.0,3.12
+Sauncho Donald,Female,Canada,03/06/2021,2.4480000000000004,20.0,3.06
+Josh Mazey,Male,United States,03/19/2021,6.76,20.0,8.45
+Amerigo Doggrell,Female,France,03/01/2021,5.488,20.0,6.86
+Clare Wloch,Male,Canada,03/19/2021,3.7920000000000003,20.0,4.74
+Ethelin Gors,Female,Morocco,03/07/2021,6.384,20.0,7.98
+Kirsten Beagles,Male,France,03/16/2021,6.96,20.0,8.7
+Elke Baroch,Male,Canada,03/23/2021,3.6560000000000006,20.0,4.57
+Magdalen Karpman,Male,Canada,03/10/2021,3.504,20.0,4.38
+Gage Dumingo,Female,France,03/07/2021,6.8,0.0,6.8
+Tadd Drakeley,Female,France,03/30/2021,5.816,20.0,7.27
+Gabey Cadalleder,Male,United States,03/03/2021,6.2,20.0,7.75
+Willis Sandercroft,Female,Morocco,03/01/2021,8.0,20.0,10.0
+Clayborne Meadway,Female,Canada,03/28/2021,5.5680000000000005,20.0,6.96
+Ad Jirzik,Female,United States,03/01/2021,5.264,20.0,6.58
+Shelia Fagge,Female,Canada,03/12/2021,5.5520000000000005,20.0,6.94
+Terencio Stoop,Male,France,03/09/2021,6.120000000000001,20.0,7.65
+Issiah Phipp,Female,United States,03/27/2021,4.4479999999999995,20.0,5.56
+Florencia Hindmoor,Female,United States,03/18/2021,6.31,0.0,6.31
+Meredeth Blaymires,Female,Canada,03/28/2021,4.392,20.0,5.49
+Norean Dundridge,Female,Canada,03/06/2021,6.71,0.0,6.71
+Salvidor Hardisty,Female,United States,03/10/2021,5.5440000000000005,20.0,6.93
+Jaynell Reeday,Male,Canada,03/08/2021,4.92,0.0,4.92
+Faythe Cottey,Female,France,03/08/2021,7.216,20.0,9.02
+Blondie Tarney,Female,United States,03/19/2021,9.27,0.0,9.27
+Serena Lorain,Male,Canada,03/08/2021,4.97,0.0,4.97
+Gordie Rillatt,Male,United States,03/10/2021,5.616,20.0,7.02
+Renate Antonioni,Male,France,03/06/2021,2.4800000000000004,20.0,3.1
+Salim Babbs,Female,France,03/23/2021,5.640000000000001,20.0,7.05
+Fielding Billinge,Female,France,03/28/2021,4.928000000000001,20.0,6.16
+Rutger Swett,Male,Canada,03/22/2021,4.704,20.0,5.88
+Marion Camm,Female,Canada,03/24/2021,3.576,20.0,4.47
+Daven Muir,Female,United States,03/06/2021,6.73,0.0,6.73
+Ninnette McGruar,Male,Morocco,03/24/2021,7.68,20.0,9.6
+Aurie Farnell,Male,United States,03/06/2021,9.32,0.0,9.32
+Shadow Joselevitch,Male,Canada,03/17/2021,7.41,0.0,7.41
+Nike Eronie,Female,France,03/04/2021,9.71,0.0,9.71
+Frederica Stuchburie,Female,Morocco,03/22/2021,9.51,0.0,9.51
+Roosevelt Lavarack,Female,Canada,03/20/2021,7.992000000000001,20.0,9.99
+Briano Stapels,Male,United States,03/20/2021,5.928000000000001,20.0,7.41
+Janessa Coleridge,Male,France,03/13/2021,7.104000000000001,20.0,8.88
+Melisse Week,Male,France,03/04/2021,4.44,20.0,5.55
+Roslyn Else,Female,United States,03/04/2021,4.376,20.0,5.47
+Stearne Antoniewski,Male,France,03/03/2021,3.3600000000000003,20.0,4.2
+Ewen Grasner,Female,United States,03/10/2021,7.504000000000001,20.0,9.38
+Leroi Tregunnah,Female,France,03/01/2021,5.952000000000001,20.0,7.44
+Alric Atkyns,Female,France,03/18/2021,3.976,20.0,4.97
+Kendal Huleatt,Female,Morocco,03/29/2021,4.656000000000001,20.0,5.82
+Alastair Ackland,Male,United States,03/22/2021,5.6240000000000006,20.0,7.03
+Kathlin Murty,Female,United States,03/12/2021,5.55,0.0,5.55
+Anatol Haws,Male,France,03/24/2021,7.28,20.0,9.1
+Ruddy Molineux,Male,France,03/27/2021,4.992000000000001,20.0,6.24
+Manny Golley,Male,France,03/25/2021,2.568,20.0,3.21
+Isak Loweth,Female,United States,03/27/2021,8.82,0.0,8.82
+Annadiane Teulier,Female,United States,03/16/2021,7.016,20.0,8.77
+Chloette Giorgielli,Female,France,03/12/2021,5.68,0.0,5.68
+Aurie Lemmens,Male,France,03/26/2021,6.71,0.0,6.71
+Jarred Gozney,Female,Canada,03/26/2021,6.944,20.0,8.68
+Sula Corrigan,Male,France,03/04/2021,6.896,20.0,8.62
+Roslyn Peck,Male,United States,03/21/2021,3.168,20.0,3.96
+Lockwood Sweedy,Male,Canada,03/26/2021,6.568000000000001,20.0,8.21
+Alys Lovemore,Female,United States,03/27/2021,3.52,0.0,3.52
+Birk Pontain,Female,Canada,03/10/2021,6.5760000000000005,20.0,8.22
+Leonore Blackney,Female,United States,03/03/2021,4.728000000000001,20.0,5.91
+Waldemar Sweetsur,Male,France,03/19/2021,7.56,20.0,9.45
+Vivian Jaggi,Female,France,03/15/2021,6.256,20.0,7.82
+Francis Longdon,Male,United States,03/18/2021,2.44,20.0,3.05
+Fairleigh Gouny,Female,United States,03/17/2021,6.93,0.0,6.93
+Gibb Barrable,Female,Canada,03/24/2021,4.61,0.0,4.61
+Regan Phayre,Female,Canada,03/12/2021,6.76,0.0,6.76
+Carroll Anetts,Female,United States,03/28/2021,2.44,20.0,3.05
+Nancie Birch,Female,Canada,03/12/2021,6.77,0.0,6.77
+Moselle Dugue,Female,France,03/27/2021,6.264,20.0,7.83
+Nonie Barwis,Male,Canada,03/05/2021,2.424,20.0,3.03
+Chico Keywood,Female,United States,03/07/2021,6.304,20.0,7.88
+Rutherford Ready,Female,Canada,03/01/2021,3.5840000000000005,20.0,4.48
+Sheridan Blay,Male,United States,03/07/2021,6.93,0.0,6.93
+Adolph Higgen,Male,France,03/15/2021,6.696,20.0,8.37
+Clayson Wooderson,Female,United States,03/28/2021,4.392,20.0,5.49
+Mora Ickeringill,Male,France,03/13/2021,9.37,0.0,9.37
+Corena Saunper,Male,France,03/02/2021,7.616,20.0,9.52
+Courtnay Rummin,Male,United States,03/25/2021,6.21,0.0,6.21
+Bradan Loughlin,Female,France,03/19/2021,7.328,20.0,9.16
+Tommy Baitman,Female,France,03/10/2021,2.672,20.0,3.34
+Filberte Romanski,Male,France,03/20/2021,8.24,0.0,8.24
+Trenna Jaskiewicz,Male,Canada,03/05/2021,2.584,20.0,3.23
+Pasquale Aust,Female,United States,03/29/2021,7.440000000000001,20.0,9.3
+Locke Whyard,Male,France,03/19/2021,7.62,0.0,7.62
+Chrysler Pickring,Female,United States,03/14/2021,8.74,0.0,8.74
+Annora Orr,Male,Canada,03/22/2021,8.63,0.0,8.63
+Dyna Saberton,Male,Canada,03/11/2021,4.776,20.0,5.97
+Eryn Wybrow,Female,Canada,03/18/2021,9.71,0.0,9.71
+Rudie Belin,Male,France,03/12/2021,3.024,20.0,3.78
+Glennis Bossel,Male,Canada,03/07/2021,4.848,20.0,6.06
+Carlos Beatson,Female,Canada,03/11/2021,2.424,20.0,3.03
+Ervin Yeliashev,Male,France,03/12/2021,8.15,0.0,8.15
+Montague South,Female,France,03/22/2021,3.87,0.0,3.87
+Malinde Croose,Female,United States,03/20/2021,6.920000000000001,20.0,8.65
+Dix Brandi,Female,France,03/23/2021,9.33,0.0,9.33
+Zach Wannell,Male,United States,03/02/2021,7.216,20.0,9.02
+Daffi Organ,Female,France,03/13/2021,3.37,0.0,3.37
+Rich Dicken,Male,France,03/28/2021,7.05,0.0,7.05
+Blakeley Adams,Female,France,03/11/2021,3.73,0.0,3.73
+Darlleen Rioch,Female,France,03/23/2021,6.888,20.0,8.61
+Ibbie Rawlinson,Female,France,03/06/2021,3.17,0.0,3.17
+Cesar Musgrove,Male,France,03/06/2021,5.384,20.0,6.73
+Gerick Truckell,Female,United States,03/19/2021,9.83,0.0,9.83
+Emmeline Cowhig,Female,United States,03/16/2021,4.44,0.0,4.44
+Conway Winters,Female,France,03/12/2021,3.29,0.0,3.29
+Frederik Corbin,Female,France,03/03/2021,4.888000000000001,20.0,6.11
+Kippar Ridsdole,Male,United States,03/07/2021,3.944,20.0,4.93
+Lezley Muat,Male,United States,03/15/2021,4.54,0.0,4.54
+Clarance Fagan,Male,United States,03/16/2021,5.63,0.0,5.63
+Reeta Matevushev,Female,France,03/15/2021,5.87,0.0,5.87
+Alvie Thaw,Male,Canada,03/15/2021,2.584,20.0,3.23
+Werner Halloway,Male,United States,03/18/2021,9.98,0.0,9.98
+Wandis MacCoughen,Male,Morocco,03/15/2021,7.304000000000001,20.0,9.13
+Inglebert Terram,Female,United States,03/15/2021,8.19,0.0,8.19
+Devin Bugby,Female,United States,03/01/2021,3.048,20.0,3.81
+Oswald Callar,Male,Canada,03/09/2021,8.84,0.0,8.84
+Jeff Kelledy,Female,France,03/20/2021,2.664,20.0,3.33
+Woodman Vequaud,Male,France,03/16/2021,3.7920000000000003,20.0,4.74
+Dorolice Pointing,Female,France,03/01/2021,7.112000000000001,20.0,8.89
+Haley Shann,Male,France,03/23/2021,8.34,0.0,8.34
+Staci Sandle,Male,Canada,03/04/2021,6.47,0.0,6.47
+Ramsey Gogie,Male,France,03/18/2021,8.66,0.0,8.66
+Read Shuttleworth,Male,United States,03/05/2021,7.656000000000001,20.0,9.57
+Ollie Suermeier,Female,Morocco,03/22/2021,9.98,0.0,9.98
+Audi Davies,Male,Canada,03/20/2021,2.7840000000000003,20.0,3.48
+Mickie Heinlein,Female,Canada,03/28/2021,6.168,20.0,7.71
+Rodrick Gierek,Male,Morocco,03/11/2021,8.27,0.0,8.27
+Ashil Castan,Female,United States,03/13/2021,2.904,20.0,3.63
+Berget Lawee,Female,France,03/02/2021,3.5200000000000005,20.0,4.4
+Brynn Henken,Male,France,03/18/2021,6.624,20.0,8.28
+Guenevere Mullinder,Female,France,03/14/2021,2.904,20.0,3.63
+Garfield Swanne,Female,United States,03/14/2021,7.04,0.0,7.04
+Hailey Gludor,Male,France,03/03/2021,3.84,0.0,3.84
+Archaimbaud Sweetland,Female,United States,03/29/2021,4.168,20.0,5.21
+Jess Manklow,Female,Canada,03/08/2021,6.664000000000001,20.0,8.33
+Noel Havercroft,Male,United States,03/24/2021,7.71,0.0,7.71
+Shir Quince,Female,France,03/03/2021,7.295999999999999,20.0,9.12
+Saw Brookesbie,Male,United States,03/20/2021,3.09,0.0,3.09
+Duncan Dymocke,Female,Morocco,03/28/2021,4.664000000000001,20.0,5.83
+Tana Volker,Female,Canada,03/22/2021,9.19,0.0,9.19
+Carter Beavors,Male,France,03/30/2021,8.61,0.0,8.61
+Gerhard Briddock,Male,United States,03/01/2021,8.25,0.0,8.25
+Jereme Carncross,Female,United States,03/07/2021,9.92,0.0,9.92
+Shana Leak,Male,France,03/29/2021,3.032,20.0,3.79
+Irena Fudge,Male,France,03/14/2021,6.648000000000001,20.0,8.31
+Gaile Shrawley,Female,France,03/23/2021,7.5440000000000005,20.0,9.43
+Erinn Naire,Male,France,03/06/2021,6.176,20.0,7.72
+Giff Ciccarello,Female,France,03/04/2021,3.44,0.0,3.44
+Cherice Curtois,Female,Canada,03/05/2021,4.57,0.0,4.57
+Timmie Hubbert,Female,France,03/28/2021,7.12,0.0,7.12
+Dehlia Ellson,Female,United States,03/04/2021,5.92,0.0,5.92
+Randi Willans,Female,United States,03/30/2021,4.0,20.0,5.0
+Sharline Du Fray,Female,France,03/14/2021,7.13,0.0,7.13
+Artus Gommery,Female,United States,03/16/2021,6.224,20.0,7.78
+Lion Chilver,Female,United States,03/07/2021,3.872,20.0,4.84
+Read Le Noire,Male,France,03/16/2021,5.84,20.0,7.3
+Gloria Lindenbaum,Female,France,03/02/2021,6.312,20.0,7.89
+Carolyne Eschalette,Male,Morocco,03/14/2021,7.231999999999999,20.0,9.04
+Burr Custance,Male,Canada,03/14/2021,3.224,20.0,4.03
+Melvyn Cruddace,Male,France,03/15/2021,5.44,20.0,6.8
+Peyton Parslow,Female,France,03/03/2021,4.98,0.0,4.98
+Raimund Mineghelli,Female,France,03/07/2021,6.7,0.0,6.7
+Stan Pury,Male,France,03/25/2021,3.472,20.0,4.34
+Lefty Woehler,Female,France,03/21/2021,9.47,0.0,9.47
+Laurens Exposito,Male,France,03/24/2021,6.32,0.0,6.32
+Lura Rosenkranc,Male,Canada,03/03/2021,4.048,20.0,5.06
+Shelby Kenford,Male,United States,03/14/2021,7.448,20.0,9.31
+Garreth Philpotts,Male,France,03/06/2021,3.44,20.0,4.3
+Kari Earlam,Male,Canada,03/20/2021,2.8480000000000003,20.0,3.56
+Elsi Pieper,Male,Morocco,03/20/2021,4.23,0.0,4.23
+Erminia Roberds,Male,United States,03/07/2021,6.264,20.0,7.83
+Clyde Lorroway,Female,United States,03/19/2021,6.728000000000001,20.0,8.41
+Vivianna Duckit,Female,France,03/15/2021,6.49,0.0,6.49
+Corbett Trodden,Female,Canada,03/07/2021,5.744,20.0,7.18
+Raimundo Kores,Male,United States,03/28/2021,6.75,0.0,6.75
+Antoinette Irvin,Female,Canada,03/22/2021,4.72,0.0,4.72
+Georgette Colicot,Female,France,03/19/2021,2.9440000000000004,20.0,3.68
+Barnabas Shortan,Male,France,03/12/2021,2.8800000000000003,20.0,3.6
+Lillis O'Neary,Female,United States,03/21/2021,5.752000000000001,20.0,7.19
+Rosene Fielder,Male,Canada,03/25/2021,5.168,20.0,6.46
+Mureil Bartke,Female,Morocco,03/22/2021,6.344,20.0,7.93
+Carolee Abelson,Female,United States,03/02/2021,2.824,20.0,3.53
+Reamonn Whitmarsh,Male,United States,03/16/2021,9.23,0.0,9.23
+Sal Jon,Male,United States,03/05/2021,7.79,0.0,7.79
+Meris Duce,Female,United States,03/06/2021,3.23,0.0,3.23
+Obidiah Colbourn,Male,France,03/03/2021,2.984,20.0,3.73
+Olympia Whitton,Male,Canada,03/12/2021,7.0,20.0,8.75
+Yard Goaks,Male,United States,03/18/2021,3.3280000000000003,20.0,4.16
+Ambros Chittem,Female,France,03/15/2021,4.432,20.0,5.54
+Hewitt Barense,Female,United States,03/30/2021,5.35,0.0,5.35
+Julieta Ricks,Female,United States,03/08/2021,3.9280000000000004,20.0,4.91
+Cord MacAscaidh,Male,France,03/19/2021,7.6000000000000005,20.0,9.5
+Abagael Lafflina,Female,Morocco,03/14/2021,5.2,20.0,6.5
+Hildagarde Dews,Female,United States,03/21/2021,5.472,20.0,6.84
+Kennie Taffee,Male,France,03/19/2021,3.9840000000000004,20.0,4.98
+Sheelagh Gilmore,Female,Morocco,03/21/2021,6.5360000000000005,20.0,8.17
+Ephrayim Wassung,Male,United States,03/24/2021,7.864000000000001,20.0,9.83
+Mary Brigdale,Female,France,03/03/2021,4.42,0.0,4.42
+Verene Ingham,Female,France,03/26/2021,5.49,0.0,5.49
+Rosanna Donativo,Male,Canada,03/22/2021,3.95,0.0,3.95
+Raviv Deniske,Female,United States,03/23/2021,2.616,20.0,3.27
+Kellina Penning,Male,United States,03/14/2021,3.7520000000000007,20.0,4.69
+Jayme Giottini,Female,Morocco,03/12/2021,2.672,20.0,3.34
+Luciana Robjohns,Male,United States,03/01/2021,4.216,20.0,5.27
+Maury Warters,Male,France,03/29/2021,7.72,0.0,7.72
+Kinna Bartolomieu,Female,France,03/19/2021,3.44,20.0,4.3
+Gawain Siebert,Female,United States,03/10/2021,4.496,20.0,5.62
+Orrin Boller,Male,France,03/17/2021,2.5440000000000005,20.0,3.18
+Pietrek Najara,Male,France,03/27/2021,2.9280000000000004,20.0,3.66
+Rutter Mityukov,Female,United States,03/09/2021,9.4,0.0,9.4
+Marshall Kuhn,Female,United States,03/20/2021,5.66,0.0,5.66
+Bondon Rizzillo,Male,United States,03/14/2021,7.5760000000000005,20.0,9.47
+Giulietta Hun,Female,Morocco,03/26/2021,7.968000000000001,20.0,9.96
+Wilbert Cossor,Female,France,03/10/2021,3.808,20.0,4.76
+Marcile Trahearn,Male,France,03/13/2021,6.75,0.0,6.75
+Niko Mityukov,Female,United States,03/10/2021,5.072,20.0,6.34
+Ty Lehrian,Female,France,03/16/2021,8.64,0.0,8.64
+Riki Mallows,Female,France,03/13/2021,4.5200000000000005,20.0,5.65
+Keefer Toovey,Female,France,03/30/2021,4.064,20.0,5.08
+Oralle MacAvddy,Female,United States,03/08/2021,7.104000000000001,20.0,8.88
+Collen Goad,Male,France,03/26/2021,9.31,0.0,9.31
+Lanie Slidders,Male,Morocco,03/28/2021,4.42,0.0,4.42
+Larry Amberger,Male,France,03/20/2021,4.4,20.0,5.5
+Romain Gutowska,Male,Canada,03/19/2021,5.28,20.0,6.6
+Sawyere Brelsford,Male,France,03/25/2021,5.45,0.0,5.45
+Kendal Golling,Female,France,03/05/2021,2.5440000000000005,20.0,3.18
+Flor Fischer,Male,France,03/01/2021,7.16,20.0,8.95
+Silvano Tinner,Male,Canada,03/30/2021,7.04,0.0,7.04
+Hollyanne Feehan,Male,France,03/23/2021,2.4640000000000004,20.0,3.08
+Garrik Matousek,Male,Canada,03/19/2021,9.97,0.0,9.97
+Abigail Taverner,Female,France,03/30/2021,2.584,20.0,3.23
+Norrie Gandrich,Female,France,03/18/2021,10.0,0.0,10.0
+Amabelle Haken,Female,United States,03/16/2021,7.38,0.0,7.38
+Hilda Holdall,Female,France,03/12/2021,5.5840000000000005,20.0,6.98
+Rori Raulstone,Female,France,03/13/2021,6.37,0.0,6.37
+Merrill Povall,Male,France,03/05/2021,2.9760000000000004,20.0,3.72
+Ainsley Tschierasche,Male,United States,03/01/2021,3.448,20.0,4.31
+Reena Matous,Female,France,03/14/2021,3.8880000000000003,20.0,4.86
+Latrina Tacey,Female,United States,03/02/2021,4.128,20.0,5.16
+Trisha Humphrys,Male,Canada,03/18/2021,6.32,20.0,7.9
+Fenelia Squeers,Female,France,03/18/2021,9.2,0.0,9.2
+Hannie Sorsby,Female,Canada,03/19/2021,6.408,20.0,8.01
+Sergent Duffrie,Female,Canada,03/19/2021,6.4879999999999995,20.0,8.11
+Aurelie Bunting,Female,Canada,03/22/2021,5.848,20.0,7.31
+Charley Kretchmer,Male,Canada,03/13/2021,3.144,20.0,3.93
+Roxana Betke,Male,Canada,03/21/2021,9.32,0.0,9.32
+Clara Dawidowicz,Male,United States,03/17/2021,6.128,20.0,7.66
+Maggee Fishley,Female,France,03/29/2021,7.352,20.0,9.19
+Cherey Wildey,Male,France,03/21/2021,4.496,20.0,5.62
+Maude McRannell,Male,United States,03/13/2021,6.768000000000001,20.0,8.46
+Lenora Gouldbourn,Female,France,03/17/2021,2.5120000000000005,20.0,3.14
+Turner Paolicchi,Female,United States,03/03/2021,3.808,20.0,4.76
+Bartholemy Pippard,Female,France,03/03/2021,5.71,0.0,5.71
+Wilt Yeend,Male,Canada,03/12/2021,5.08,20.0,6.35
+Leonerd Siddell,Female,France,03/19/2021,4.91,0.0,4.91
+Iseabal Landers,Male,France,03/04/2021,6.464,20.0,8.08
+Ag Dwelly,Female,Morocco,03/05/2021,3.28,20.0,4.1
+Mateo Gozzard,Female,France,03/04/2021,7.28,0.0,7.28
+Charmain Humbatch,Female,France,03/02/2021,4.24,0.0,4.24
+Amabel Ceyssen,Female,France,03/04/2021,3.544,20.0,4.43
+Heath Kleint,Male,United States,03/10/2021,4.456,20.0,5.57
+Maritsa Spratling,Male,Morocco,03/18/2021,3.49,0.0,3.49
+Scottie Schinetti,Female,France,03/05/2021,5.416,20.0,6.77
+Emile Kinnier,Male,United States,03/25/2021,6.5840000000000005,20.0,8.23
+Gretchen Picken,Male,France,03/13/2021,7.344,20.0,9.18
+Giff Dudderidge,Female,United States,03/06/2021,5.776,20.0,7.22
+Gallagher Pudsall,Male,France,03/26/2021,3.032,20.0,3.79
+Ceciley Gleed,Male,France,03/14/2021,7.0,20.0,8.75
+Willow Bianco,Male,France,03/05/2021,3.144,20.0,3.93
+Jobey Bernon,Male,Canada,03/16/2021,7.248000000000001,20.0,9.06
+Mahala Oxlee,Female,United States,03/20/2021,3.872,20.0,4.84
+Ephrem Thorsen,Male,United States,03/23/2021,6.55,0.0,6.55
+Emeline Nellies,Female,United States,03/14/2021,3.25,0.0,3.25
+Caye Muckle,Female,France,03/02/2021,7.064,20.0,8.83
+Kassia Duker,Female,United States,03/16/2021,6.392,20.0,7.99
+Judas Iston,Female,United States,03/28/2021,3.224,20.0,4.03
+Cristy Scholz,Female,France,03/28/2021,6.5440000000000005,20.0,8.18
+Pam MacMichael,Female,France,03/28/2021,4.12,20.0,5.15
+Ripley Chittock,Female,Canada,03/06/2021,3.4000000000000004,20.0,4.25
+Alex Southerell,Female,United States,03/22/2021,9.4,0.0,9.4
+Jonell Rosenzveig,Female,Canada,03/16/2021,4.984000000000001,20.0,6.23
+Amos Olyonov,Male,Canada,03/20/2021,3.2,0.0,3.2
+Irwinn Martinson,Male,France,03/21/2021,9.36,0.0,9.36
+Colleen Skillett,Male,France,03/11/2021,7.0,20.0,8.75
+Tamra Haggleton,Female,United States,03/26/2021,2.856,20.0,3.57
+Rene McDade,Male,United States,03/19/2021,7.368000000000001,20.0,9.21
+Wyatt Blant,Male,United States,03/27/2021,3.28,0.0,3.28
+Cortie Horrell,Male,France,03/02/2021,6.176,20.0,7.72
+Armstrong Perrin,Female,France,03/04/2021,6.832,20.0,8.54
+Gaile Fawbert,Male,United States,03/08/2021,3.04,20.0,3.8
+Erich Sinfield,Male,France,03/24/2021,6.656000000000001,20.0,8.32
+Courtney Morfield,Male,United States,03/02/2021,4.64,20.0,5.8
+Padgett Henzer,Female,France,03/05/2021,3.56,0.0,3.56
+Susana Fuzzens,Female,Canada,03/06/2021,3.608,20.0,4.51
+Petronille McRonald,Male,United States,03/09/2021,5.632000000000001,20.0,7.04
+Mordy Krzyzanowski,Male,France,03/09/2021,4.928000000000001,20.0,6.16
+Sibilla Leake,Male,France,03/12/2021,9.75,0.0,9.75
+Brittne Dysert,Male,France,03/05/2021,5.712,20.0,7.14
+Jasun Rooke,Female,France,03/01/2021,5.752000000000001,20.0,7.19
+Taddeo Halleday,Male,France,03/08/2021,4.54,0.0,4.54
+Sari Mora,Female,Canada,03/16/2021,8.4,0.0,8.4
+Bessy MacDonagh,Female,Canada,03/18/2021,7.08,0.0,7.08
+Bordy Borrowman,Male,Canada,03/03/2021,7.19,0.0,7.19
+Rebecka Domnin,Female,Canada,03/04/2021,7.4879999999999995,20.0,9.36
+Orlando Becaris,Male,Morocco,03/21/2021,6.31,0.0,6.31
+Adore Milham,Female,United States,03/11/2021,3.3920000000000003,20.0,4.24
+Gardener Bentzen,Female,United States,03/20/2021,6.792000000000001,20.0,8.49
+Susana Anyene,Female,France,03/14/2021,2.856,20.0,3.57
+Katina Meacher,Male,Canada,03/02/2021,2.8800000000000003,20.0,3.6
+Jemmy Culkin,Female,France,03/02/2021,3.02,0.0,3.02
+Minne Kiely,Female,United States,03/14/2021,5.016,20.0,6.27
+Boyce Snelgar,Male,Canada,03/20/2021,5.888000000000001,20.0,7.36
+Korie Lening,Male,France,03/30/2021,3.56,0.0,3.56
+Che McQuorkel,Male,France,03/07/2021,6.17,0.0,6.17
+Cynthie Mcasparan,Female,United States,03/26/2021,3.104,20.0,3.88
+Clementina Adcocks,Male,France,03/30/2021,6.5440000000000005,20.0,8.18
+Opalina Tomeo,Female,United States,03/04/2021,5.84,20.0,7.3
+Emmery Rubke,Female,France,03/22/2021,4.01,0.0,4.01
+Greta Maultby,Male,United States,03/28/2021,4.544,20.0,5.68
+Grethel Lohan,Male,France,03/02/2021,5.016,20.0,6.27
+Eustacia Dingate,Male,Canada,03/24/2021,4.672,20.0,5.84
+Madella Lamminam,Male,United States,03/21/2021,6.91,0.0,6.91
+Gill MacDermott,Male,United States,03/13/2021,6.704000000000001,20.0,8.38
+Rex Enright,Male,France,03/09/2021,4.78,0.0,4.78
+Del Braine,Male,France,03/26/2021,4.168,20.0,5.21
+Archy Tinman,Female,France,03/05/2021,6.68,20.0,8.35
+Wilek Lernihan,Female,United States,03/20/2021,5.384,20.0,6.73
+Arnie Davy,Female,Canada,03/16/2021,6.368,20.0,7.96
+Leon Brandreth,Female,United States,03/10/2021,6.28,20.0,7.85
+Philipa Dumbreck,Female,United States,03/21/2021,6.48,20.0,8.1
+Madelina Bright,Male,France,03/18/2021,5.216,20.0,6.52
+Brandon Hurran,Female,France,03/24/2021,6.64,0.0,6.64
+Nikolai Cockram,Male,United States,03/20/2021,4.960000000000001,20.0,6.2
+Nickola Catterell,Male,United States,03/05/2021,5.848,20.0,7.31
+Tristan Busen,Female,United States,03/27/2021,3.8640000000000003,20.0,4.83
+Samuel Fiddler,Female,France,03/30/2021,6.232,20.0,7.79
+Rosamund Pawlick,Female,Morocco,03/17/2021,4.5200000000000005,20.0,5.65
+Aloin Meus,Male,United States,03/27/2021,6.16,0.0,6.16
+Michale McCullough,Female,United States,03/28/2021,4.24,20.0,5.3
+Delmar Woltman,Female,France,03/05/2021,9.89,0.0,9.89
+Salomone Kendrick,Female,United States,03/16/2021,6.328,20.0,7.91
+Janela Wesker,Female,United States,03/14/2021,4.256,20.0,5.32
+Aime Herley,Female,United States,03/26/2021,5.728000000000001,20.0,7.16
+Jeannie Sante,Female,Canada,03/13/2021,3.38,0.0,3.38
+Tera Hartridge,Male,Morocco,03/07/2021,2.984,20.0,3.73
+Gilbert Kiddey,Male,France,03/19/2021,2.472,20.0,3.09
+Cord Scoines,Male,France,03/13/2021,4.488,20.0,5.61
+Francyne How to preserve,Female,France,03/08/2021,4.83,0.0,4.83
+Angelia Illingsworth,Female,France,03/22/2021,8.8,0.0,8.8
+Wendi Woolmer,Male,United States,03/28/2021,4.22,0.0,4.22
+Karel Moncaster,Male,United States,03/06/2021,6.224,20.0,7.78
+Leese Kunath,Female,Canada,03/04/2021,7.856000000000001,20.0,9.82
+Sherie Jermy,Female,Morocco,03/18/2021,4.728000000000001,20.0,5.91
+Corena Vequaud,Male,Canada,03/14/2021,5.48,0.0,5.48
+Arlina Burgyn,Female,France,03/27/2021,4.192,20.0,5.24
+Casi Criple,Female,United States,03/29/2021,7.12,0.0,7.12
+Mikael Trebilcock,Female,France,03/10/2021,6.0,20.0,7.5
+Jourdan Korn,Female,Canada,03/28/2021,6.46,0.0,6.46
+Nannie Robel,Female,Canada,03/29/2021,6.36,20.0,7.95
+Hannah Arran,Male,United States,03/18/2021,3.98,0.0,3.98
+Cecil MacAless,Male,United States,03/25/2021,6.312,20.0,7.89
+Karlyn Bawden,Female,France,03/10/2021,3.74,0.0,3.74
+Jacobo Cattonnet,Female,France,03/09/2021,3.8960000000000004,20.0,4.87
+Nerte Stollwerck,Female,Canada,03/29/2021,3.3360000000000003,20.0,4.17
+Elisha Golden,Female,United States,03/16/2021,6.11,0.0,6.11
+Thorpe Phorsby,Male,Canada,03/04/2021,4.5040000000000004,20.0,5.63
+Mallory Burke,Male,Canada,03/20/2021,5.48,0.0,5.48
+Gage Dusting,Female,France,03/14/2021,4.816,20.0,6.02
+Jens Bosket,Female,France,03/24/2021,7.504000000000001,20.0,9.38
+Faith Bambra,Male,United States,03/29/2021,2.688,20.0,3.36
+Gal Dragon,Female,France,03/01/2021,5.6,0.0,5.6
+Marielle Doherty,Female,France,03/01/2021,4.4479999999999995,20.0,5.56
+Harwilll Haycraft,Female,France,03/08/2021,8.18,0.0,8.18
+Alanson Wagen,Male,France,03/24/2021,5.208,20.0,6.51
+Jamill Storek,Male,France,03/25/2021,4.86,0.0,4.86
+Lucien Rigate,Male,United States,03/14/2021,3.64,20.0,4.55
+Friederike Boyda,Male,France,03/20/2021,3.2960000000000003,20.0,4.12
+Lorelle Fiennes,Female,France,03/12/2021,2.424,20.0,3.03
+Thornie Letterick,Male,Canada,03/04/2021,3.4880000000000004,20.0,4.36
+Vassili De Cleyne,Female,Canada,03/06/2021,5.960000000000001,20.0,7.45
+Myrtice Stangoe,Male,United States,03/04/2021,6.840000000000001,20.0,8.55
+Maureen Crick,Male,Morocco,03/19/2021,7.66,0.0,7.66
+Devinne Daice,Male,France,03/01/2021,5.2,20.0,6.5
+Raf Fuggles,Male,France,03/27/2021,3.77,0.0,3.77
+Tedi Hazelgreave,Male,United States,03/26/2021,2.7680000000000002,20.0,3.46
+Dur Teasell,Female,United States,03/16/2021,3.3360000000000003,20.0,4.17
+Blaire Ondrak,Male,France,03/24/2021,8.92,0.0,8.92
+Colas Prudham,Male,France,03/21/2021,4.36,0.0,4.36
+Jayson Jennaway,Male,France,03/13/2021,6.4,0.0,6.4
+Nikolos Sibthorp,Female,United States,03/23/2021,6.0,20.0,7.5
+Zoe Daughtry,Female,France,03/16/2021,3.136,20.0,3.92
+Lorine Cullum,Female,United States,03/10/2021,4.08,20.0,5.1
+Jose Dumbelton,Male,France,03/19/2021,8.45,0.0,8.45
+Carlos Allbrook,Male,France,03/11/2021,9.42,0.0,9.42
+Gwendolin Bigland,Female,United States,03/09/2021,7.888,20.0,9.86
+Edlin Tiptaft,Male,United States,03/24/2021,9.09,0.0,9.09
+Sibilla Monday,Female,Morocco,03/23/2021,4.648,20.0,5.81
+Bil Sarsfield,Male,United States,03/29/2021,4.288,20.0,5.36
+Lusa McColgan,Female,Morocco,03/19/2021,4.784000000000001,20.0,5.98
+Ciro Libbe,Female,France,03/28/2021,6.43,0.0,6.43
+Sanderson Dockreay,Female,France,03/30/2021,6.5200000000000005,20.0,8.15
+Beryle Guerin,Male,France,03/23/2021,5.184000000000001,20.0,6.48
+Derick Salvin,Female,France,03/03/2021,7.0,20.0,8.75
+Courtnay Shuter,Female,France,03/03/2021,6.12,0.0,6.12
+Arda Yude,Female,Morocco,03/19/2021,4.944,20.0,6.18
+Garrick Ferrulli,Male,United States,03/19/2021,8.24,0.0,8.24
+Jareb Teideman,Female,United States,03/23/2021,4.93,0.0,4.93
+Torin Sibbert,Male,United States,03/24/2021,3.31,0.0,3.31
+Jorie Penk,Male,France,03/12/2021,8.6,0.0,8.6
+Scott McCarney,Male,United States,03/13/2021,5.48,20.0,6.85
+Buddy Fleg,Male,United States,03/05/2021,7.240000000000001,20.0,9.05
+Lek Garton,Female,France,03/19/2021,4.02,0.0,4.02
+Jerry Cookley,Female,United States,03/08/2021,2.68,20.0,3.35
+Tate Mulvenna,Male,United States,03/18/2021,4.064,20.0,5.08
+Burlie Pascow,Female,Canada,03/02/2021,6.736000000000001,20.0,8.42
+Law Beaney,Male,United States,03/09/2021,3.31,0.0,3.31
+Archibaldo Buddleigh,Female,France,03/27/2021,6.392,20.0,7.99
+Esme Jodlkowski,Female,Morocco,03/04/2021,9.72,0.0,9.72
+Haven Cornilli,Male,France,03/27/2021,2.888,20.0,3.61
+Nollie Okenfold,Female,France,03/07/2021,3.512,20.0,4.39
+Redford Spindler,Female,France,03/07/2021,6.312,20.0,7.89
+Prinz Sterndale,Male,France,03/03/2021,5.6240000000000006,20.0,7.03
+Saul Resun,Male,Morocco,03/13/2021,7.39,0.0,7.39
+Vally Flea,Male,France,03/12/2021,9.84,0.0,9.84
+Kalina Fairnington,Male,Canada,03/14/2021,9.85,0.0,9.85
+Randi Gullan,Male,France,03/06/2021,2.44,20.0,3.05
+Fletch Mandy,Female,United States,03/14/2021,3.22,0.0,3.22
+Thurston Collie,Female,France,03/25/2021,3.48,20.0,4.35
+Rolfe McKmurrie,Male,France,03/16/2021,7.0,20.0,8.75
+Kathie Wisniowski,Female,France,03/03/2021,3.696,20.0,4.62
+Adrian Hriinchenko,Male,United States,03/25/2021,4.49,0.0,4.49
+Avery Piecha,Male,United States,03/17/2021,3.6,20.0,4.5
+Madel Sylvaine,Male,United States,03/20/2021,3.5920000000000005,20.0,4.49
+Darb Wogan,Female,United States,03/30/2021,7.664000000000001,20.0,9.58
+Madlin Guite,Female,France,03/15/2021,6.5,0.0,6.5
+Aleksandr Speariett,Male,Canada,03/13/2021,6.976000000000001,20.0,8.72
+Silvana Calderon,Male,France,03/17/2021,6.832,20.0,8.54
+Duke Foxen,Male,France,03/24/2021,7.456,20.0,9.32
+Candy Mealiffe,Male,France,03/01/2021,7.12,0.0,7.12
+Adda Nevin,Male,France,03/26/2021,2.984,20.0,3.73
+Judy Chuney,Male,Morocco,03/08/2021,7.168000000000001,20.0,8.96
+Alanson Butterick,Male,Canada,03/20/2021,5.304,20.0,6.63
+Theresina Constable,Male,Morocco,03/10/2021,3.7600000000000002,20.0,4.7
+Dilly Cherrison,Male,France,03/22/2021,9.33,0.0,9.33
+Marcela Youngman,Female,United States,03/19/2021,3.872,20.0,4.84
+Kingsly Dorracott,Female,France,03/19/2021,7.872,20.0,9.84
+Sutherlan Motto,Male,United States,03/06/2021,3.3600000000000003,20.0,4.2
+Antonius Beresfore,Female,United States,03/30/2021,6.59,0.0,6.59
+Roselle Lemerle,Female,United States,03/10/2021,5.760000000000001,20.0,7.2
+Dallas von Hagt,Female,France,03/17/2021,5.5280000000000005,20.0,6.91
+Nonna Cotilard,Female,France,03/08/2021,7.440000000000001,20.0,9.3
+Levon Jaine,Male,Morocco,03/21/2021,4.92,0.0,4.92
+Waverley Perris,Female,France,03/09/2021,2.424,20.0,3.03
+Westbrook Fowler,Male,France,03/29/2021,3.75,0.0,3.75
+Carol Glennie,Male,Canada,03/11/2021,4.16,20.0,5.2
+Camala Oleksiak,Female,United States,03/01/2021,3.59,0.0,3.59
+Janet Dimitriev,Female,Canada,03/03/2021,5.672000000000001,20.0,7.09
+Ibbie Bettanay,Male,France,03/08/2021,5.78,0.0,5.78
+Jelene Creer,Male,United States,03/06/2021,7.28,20.0,9.1
+Gustav Riggulsford,Female,France,03/13/2021,4.208,20.0,5.26
+Aggie Kempe,Female,United States,03/05/2021,6.24,0.0,6.24
+Nick Elsey,Female,France,03/24/2021,6.5440000000000005,20.0,8.18
+Mel Arrigo,Male,United States,03/13/2021,5.296,20.0,6.62
+Alexandre Liverock,Female,United States,03/05/2021,7.264,20.0,9.08
+Tallie Clunan,Female,United States,03/04/2021,3.46,0.0,3.46
+Lyn Kase,Female,France,03/01/2021,9.27,0.0,9.27
+Daffi Bartolomeo,Female,Canada,03/07/2021,5.112,20.0,6.39
+Corine Sictornes,Female,United States,03/17/2021,6.944,20.0,8.68
+Dario Inger,Male,United States,03/12/2021,4.88,0.0,4.88
+Victoria Rediers,Female,United States,03/29/2021,3.776,20.0,4.72
+Nicoli Bielfeld,Male,United States,03/23/2021,4.32,20.0,5.4
+Corbet Spick,Female,United States,03/25/2021,5.376,20.0,6.72
+Waylen Daice,Male,France,03/20/2021,8.83,0.0,8.83
+Clare Breitler,Female,Morocco,03/02/2021,7.464,20.0,9.33
+Kariotta Lindell,Male,United States,03/22/2021,3.152,20.0,3.94
+Evangelin Grieveson,Male,Canada,03/06/2021,7.968000000000001,20.0,9.96
+Fallon Corteis,Male,United States,03/28/2021,4.5200000000000005,20.0,5.65
+Gunar Ionesco,Male,France,03/26/2021,9.38,0.0,9.38
+Redford Langland,Male,Canada,03/28/2021,5.5920000000000005,20.0,6.99
+Patricia Weagener,Female,France,03/25/2021,3.91,0.0,3.91
+Udell Maulden,Female,France,03/23/2021,2.8320000000000003,20.0,3.54
+Marta Graeber,Male,United States,03/01/2021,5.84,20.0,7.3
+Sherwin Wiersma,Female,France,03/14/2021,4.232,20.0,5.29
+Annetta Stormonth,Male,United States,03/06/2021,6.5360000000000005,20.0,8.17
+Rasla Rolling,Male,Canada,03/08/2021,3.9600000000000004,20.0,4.95
+Gabey Brechin,Female,France,03/29/2021,7.56,20.0,9.45
+Charlotte McDaid,Male,France,03/23/2021,2.9920000000000004,20.0,3.74
+Dal Ducarne,Female,France,03/29/2021,7.624,20.0,9.53
+Roxane Erbe,Male,United States,03/17/2021,3.16,20.0,3.95
+Gael Rothon,Male,United States,03/08/2021,7.720000000000001,20.0,9.65
+Amity Harrild,Male,France,03/21/2021,9.77,0.0,9.77
+Phillipp Bennallck,Female,France,03/26/2021,4.2,20.0,5.25
+Nerita Jelly,Male,United States,03/25/2021,6.032,20.0,7.54
+Zuzana Huebner,Female,United States,03/06/2021,2.8640000000000003,20.0,3.58
+Donny Testo,Female,France,03/18/2021,7.12,0.0,7.12
+Verney Stoppe,Male,Canada,03/04/2021,7.696,20.0,9.62
+Gerald Gligoraci,Male,France,03/29/2021,2.984,20.0,3.73
+Byrom Boots,Female,Canada,03/03/2021,2.9920000000000004,20.0,3.74
+Tiffy Ryal,Male,Canada,03/30/2021,3.88,20.0,4.85
+Flossi Martinson,Male,United States,03/14/2021,2.84,20.0,3.55
+Aurora Jurisch,Female,France,03/21/2021,4.072,20.0,5.09
+Burnaby Dyka,Female,United States,03/02/2021,3.904,20.0,4.88
+Pascale Lage,Female,France,03/28/2021,3.3040000000000003,20.0,4.13
+Wallache Lammiman,Female,France,03/20/2021,4.384,20.0,5.48
+Ethelin Narey,Male,France,03/11/2021,2.4000000000000004,20.0,3.0
+Arden Juliano,Male,United States,03/16/2021,7.504000000000001,20.0,9.38
+Maurits Gutteridge,Male,Canada,03/14/2021,3.8240000000000003,20.0,4.78
+Jerrine Stollman,Male,Morocco,03/02/2021,2.4480000000000004,20.0,3.06
+Fernando Simkovich,Female,France,03/09/2021,2.728,20.0,3.41
+Gustav Deakins,Male,Canada,03/25/2021,4.9,0.0,4.9
+Christiano Holburn,Male,United States,03/28/2021,4.5520000000000005,20.0,5.69
+Sher Spires,Female,France,03/27/2021,5.096,20.0,6.37
+Karlis de Quesne,Female,France,03/22/2021,4.79,0.0,4.79
+Dalston Croutear,Male,France,03/20/2021,3.512,20.0,4.39
+Shaun Hodgen,Male,United States,03/04/2021,6.27,0.0,6.27
+Ches Duerden,Male,United States,03/29/2021,7.96,20.0,9.95
+Hamish Reedick,Female,France,03/20/2021,4.608,20.0,5.76
+Lesly Skidmore,Female,France,03/22/2021,6.168,20.0,7.71
+Loy Pedwell,Male,United States,03/05/2021,6.87,0.0,6.87
+Constantine Loble,Female,Morocco,03/15/2021,6.752,20.0,8.44
+Kial Feore,Female,France,03/08/2021,6.19,0.0,6.19
+Davidde Castanho,Male,France,03/12/2021,3.98,0.0,3.98
+Harriett Kemmett,Male,United States,03/21/2021,7.416,20.0,9.27
+Corinna Bassill,Male,France,03/19/2021,6.208,20.0,7.76
+Nolly Skeete,Male,United States,03/02/2021,9.63,0.0,9.63
+Antonetta Paolazzi,Male,France,03/27/2021,7.43,0.0,7.43
+Silvio Pimblott,Female,France,03/14/2021,9.57,0.0,9.57
+Buck Tiller,Male,United States,03/15/2021,3.7439999999999998,20.0,4.68
+Carol Samett,Male,France,03/20/2021,5.73,0.0,5.73
+Sindee Thomen,Female,France,03/22/2021,4.02,0.0,4.02
+Julio Nuccitelli,Male,United States,03/02/2021,3.92,0.0,3.92
+Lindsy Seydlitz,Female,Canada,03/26/2021,4.336,20.0,5.42
+Flo Verner,Female,Canada,03/08/2021,4.48,0.0,4.48
+Dominica Lazar,Female,France,03/15/2021,4.576,20.0,5.72
+Hale Fevier,Female,Canada,03/20/2021,5.208,20.0,6.51
+Bradford Humberstone,Female,United States,03/03/2021,3.6880000000000006,20.0,4.61
+Hamlen Sline,Female,France,03/14/2021,4.856000000000001,20.0,6.07
+Constantine Marzelo,Male,France,03/11/2021,7.288,20.0,9.11
+Alicea Hurrell,Female,Canada,03/16/2021,7.832,20.0,9.79
+Lucie Thomesson,Male,United States,03/15/2021,6.016,20.0,7.52
+Morly Ruffles,Female,France,03/02/2021,7.39,0.0,7.39
+Truman Dunbobbin,Male,Morocco,03/01/2021,6.5760000000000005,20.0,8.22
+Quinton Escreet,Male,France,03/22/2021,4.216,20.0,5.27
+Danna Bugbee,Female,United States,03/30/2021,6.21,0.0,6.21
+Jonathan Konneke,Female,France,03/15/2021,5.68,0.0,5.68
+Bartlet Ingreda,Female,France,03/21/2021,6.232,20.0,7.79
+Holli Moakes,Female,United States,03/11/2021,2.9920000000000004,20.0,3.74
+Ely Tosney,Female,Canada,03/20/2021,7.83,0.0,7.83
+Tedd Hardin,Female,United States,03/19/2021,3.5920000000000005,20.0,4.49
+Lissy Wiggington,Female,Canada,03/01/2021,4.13,0.0,4.13
+Vasily Stacy,Male,France,03/01/2021,4.6240000000000006,20.0,5.78
+Brynne Cottrell,Female,United States,03/20/2021,7.22,0.0,7.22
+Adoree Jurisic,Female,United States,03/21/2021,4.352,20.0,5.44
+Lauren Embling,Female,United States,03/11/2021,7.71,0.0,7.71
+Mitch Pittel,Male,Canada,03/19/2021,3.088,20.0,3.86
+Carrie Tooth,Female,United States,03/21/2021,7.840000000000001,20.0,9.8
+Alberto Balffye,Female,France,03/06/2021,5.4,20.0,6.75
+Jean Lanceley,Male,France,03/03/2021,4.024,20.0,5.03
+Camilla Rops,Male,France,03/15/2021,5.448,20.0,6.81
+Mackenzie Ciementini,Female,Canada,03/09/2021,4.144,20.0,5.18
+Natividad Aggott,Female,France,03/20/2021,5.872,20.0,7.34
+Donna Greatbank,Male,Canada,03/11/2021,3.24,20.0,4.05
+Colleen Grevile,Female,France,03/15/2021,3.21,0.0,3.21
+Peggy Clubbe,Female,France,03/26/2021,4.720000000000001,20.0,5.9
+Elroy Tease,Male,France,03/27/2021,6.59,0.0,6.59
+Elnar Hurleston,Female,Morocco,03/09/2021,3.416,20.0,4.27
+Andee Cyphus,Female,United States,03/07/2021,6.59,0.0,6.59
+Faythe Lofting,Female,Morocco,03/11/2021,4.496,20.0,5.62
+Sammy Bugby,Female,Canada,03/30/2021,7.664000000000001,20.0,9.58
+Julieta Guyonnet,Female,United States,03/08/2021,4.296,20.0,5.37
+Zack Ber,Female,France,03/05/2021,9.51,0.0,9.51
+Karney Sanchis,Female,United States,03/03/2021,4.256,20.0,5.32
+Joyan Comberbach,Female,France,03/21/2021,7.120000000000001,20.0,8.9
+Franny Selburn,Female,United States,03/26/2021,2.8160000000000003,20.0,3.52
+Ad Columbine,Male,France,03/26/2021,6.008,20.0,7.51
+Demetri Horribine,Female,Canada,03/01/2021,6.784000000000001,20.0,8.48
+Bucky Grimsdell,Male,Canada,03/27/2021,3.73,0.0,3.73
+Rusty Gisborne,Female,Canada,03/21/2021,4.608,20.0,5.76
+Guillermo Dando,Male,France,03/14/2021,9.98,0.0,9.98
+Elicia Winspurr,Female,United States,03/07/2021,7.2,0.0,7.2
+Caesar Spellesy,Female,United States,03/20/2021,7.6080000000000005,20.0,9.51
+Kimmy Dakin,Male,France,03/08/2021,4.9,0.0,4.9
+Irena Calven,Female,France,03/25/2021,3.12,20.0,3.9
+Martie Ferryn,Male,France,03/26/2021,5.97,0.0,5.97
+Barnie Mulvenna,Female,United States,03/20/2021,6.68,20.0,8.35
+Aldwin Dell Casa,Female,United States,03/09/2021,7.872,20.0,9.84
+Ariana Duckett,Male,France,03/03/2021,5.48,0.0,5.48
+Stanley Paylor,Male,United States,03/07/2021,7.408,20.0,9.26
+Kara Mattea,Male,France,03/02/2021,3.11,0.0,3.11
+Luke Walklott,Male,France,03/18/2021,3.9840000000000004,20.0,4.98
+Elva Muttitt,Male,United States,03/07/2021,3.3680000000000003,20.0,4.21
+Shelagh Yurivtsev,Male,United States,03/05/2021,6.120000000000001,20.0,7.65
+Worden Fauning,Female,United States,03/02/2021,4.2,0.0,4.2
+Jarrad Dearness,Male,France,03/16/2021,4.152,20.0,5.19
+Zilvia Neicho,Female,Canada,03/17/2021,3.8960000000000004,20.0,4.87
+Bernete Mintoft,Female,Canada,03/15/2021,4.608,20.0,5.76
+Bibby Lorne,Male,United States,03/03/2021,5.51,0.0,5.51
+Ki Dinzey,Male,United States,03/26/2021,3.808,20.0,4.76
+Nalani Augar,Male,France,03/10/2021,7.192,20.0,8.99
+Boris Peeters,Female,Canada,03/06/2021,6.8,0.0,6.8
+Dale Senechell,Male,United States,03/16/2021,8.79,0.0,8.79
+Vincenz McGreal,Male,France,03/19/2021,3.2560000000000002,20.0,4.07
+Sonia Allan,Male,United States,03/27/2021,9.01,0.0,9.01
+Myrna Reynault,Female,France,03/17/2021,5.072,20.0,6.34
+Lesley Mart,Female,Canada,03/26/2021,4.16,20.0,5.2
+Andeee Dyer,Male,France,03/06/2021,5.928000000000001,20.0,7.41
+Thain Upwood,Female,United States,03/22/2021,7.976000000000001,20.0,9.97
+Karlie Airlie,Male,United States,03/16/2021,7.352,20.0,9.19
+Lamont Albrighton,Female,Canada,03/05/2021,8.41,0.0,8.41
+Ravi Staley,Female,France,03/20/2021,7.368000000000001,20.0,9.21
+Hy Jeschner,Female,Morocco,03/05/2021,6.824,20.0,8.53
+Shep Avrashin,Female,United States,03/02/2021,5.336,20.0,6.67
+Sibilla MacArdle,Male,United States,03/03/2021,5.248,20.0,6.56
+Berna Syne,Female,France,03/13/2021,6.256,20.0,7.82
+Kermit Sigward,Male,France,03/05/2021,5.168,20.0,6.46
+Consuela Itzkowicz,Male,France,03/28/2021,8.63,0.0,8.63
+Jermain Penchen,Female,United States,03/25/2021,3.696,20.0,4.62
+Rivkah Siemandl,Male,United States,03/30/2021,9.15,0.0,9.15
+Kathrine Mugg,Male,United States,03/08/2021,4.5360000000000005,20.0,5.67
+Bartel Blanckley,Male,United States,03/23/2021,4.768,20.0,5.96
+Emelyne Blonfield,Female,France,03/26/2021,2.8320000000000003,20.0,3.54
+Ottilie Bartaletti,Male,France,03/21/2021,7.904000000000001,20.0,9.88
+Kial Spraggs,Male,France,03/20/2021,8.61,0.0,8.61
+Lyell Hasard,Female,France,03/23/2021,3.3840000000000003,20.0,4.23
+Constantia Chuney,Female,France,03/23/2021,6.472,20.0,8.09
+Drud Boise,Female,United States,03/12/2021,4.816,20.0,6.02
+Kesley Scohier,Male,France,03/15/2021,5.8,0.0,5.8
+Johnathon Cleaton,Female,France,03/12/2021,9.68,0.0,9.68
+Flynn Cawthery,Female,United States,03/16/2021,6.016,20.0,7.52
+Nelson Farran,Male,France,03/04/2021,4.088,20.0,5.11
+Reinhard Ruperti,Male,France,03/16/2021,5.920000000000001,20.0,7.4
+Constantine Robert,Male,France,03/17/2021,5.864000000000001,20.0,7.33
+Paddie Malley,Male,United States,03/10/2021,7.04,0.0,7.04
+Artemis Beilby,Male,France,03/21/2021,5.43,0.0,5.43
+Chloris Joesbury,Male,France,03/15/2021,4.048,20.0,5.06
+Elyse Driver,Male,France,03/10/2021,5.04,20.0,6.3
+Simmonds Hindsberg,Female,United States,03/17/2021,5.336,20.0,6.67
+Selle Chelley,Male,France,03/23/2021,4.936,20.0,6.17
+Aubrie Finnes,Female,France,03/05/2021,5.91,0.0,5.91
+Scarface Alldis,Male,Canada,03/14/2021,7.976000000000001,20.0,9.97
+Thekla Titcomb,Male,France,03/15/2021,3.22,0.0,3.22
+Paolo Claasen,Female,United States,03/09/2021,4.744,20.0,5.93
+Mendel Allcoat,Female,France,03/27/2021,7.328,20.0,9.16
+Jeffrey Cavee,Female,United States,03/10/2021,9.78,0.0,9.78
+Kary Cords,Female,France,03/10/2021,2.856,20.0,3.57
+Corney Atger,Female,France,03/17/2021,3.29,0.0,3.29
+Ron Stoffersen,Male,United States,03/12/2021,4.232,20.0,5.29
+Willard Cuphus,Female,France,03/08/2021,7.4239999999999995,20.0,9.28
+Horace Ciciari,Male,France,03/29/2021,6.128,20.0,7.66
+Aluin Petegrew,Female,Morocco,03/03/2021,3.5,0.0,3.5
+Tiphani Urridge,Male,United States,03/09/2021,7.376000000000001,20.0,9.22
+Jeromy Clemits,Female,United States,03/17/2021,4.920000000000001,20.0,6.15
+Rosabel Trinke,Female,France,03/29/2021,5.5680000000000005,20.0,6.96
+Marylou Jankovic,Female,United States,03/14/2021,7.752,20.0,9.69
+Llewellyn Lobe,Male,France,03/04/2021,6.376,20.0,7.97
+Emmeline Torn,Male,France,03/30/2021,6.75,0.0,6.75
+Nathanil Crebo,Female,France,03/23/2021,5.94,0.0,5.94
+Rey Veltman,Male,France,03/18/2021,5.02,0.0,5.02
+Vincenz Torrisi,Male,Morocco,03/29/2021,2.8000000000000003,20.0,3.5
+Bette Leates,Female,United States,03/06/2021,7.43,0.0,7.43
+Woodrow Flaubert,Male,France,03/05/2021,3.28,20.0,4.1
+Sadella Searles,Male,France,03/29/2021,7.808,20.0,9.76
+Eberhard Pilling,Male,United States,03/15/2021,7.904000000000001,20.0,9.88
+Betteanne De Bruijne,Female,Canada,03/11/2021,3.5840000000000005,20.0,4.48
+Dulcine Osborn,Male,France,03/12/2021,3.83,0.0,3.83
+Yalonda McArdell,Male,France,03/10/2021,7.384,20.0,9.23
+Karla Amphlett,Male,United States,03/09/2021,6.76,20.0,8.45
+Dalenna Filippyev,Male,France,03/26/2021,7.09,0.0,7.09
+Quintina Sterricks,Male,Canada,03/23/2021,2.8480000000000003,20.0,3.56
+Doralynne Kime,Female,Morocco,03/02/2021,7.08,20.0,8.85
+Christabel Conaghy,Female,United States,03/15/2021,5.752000000000001,20.0,7.19
+Cindelyn Walkowski,Female,France,03/11/2021,7.16,20.0,8.95
+Noah Aliberti,Female,France,03/03/2021,6.73,0.0,6.73
+Ingeborg McLevie,Male,France,03/13/2021,3.7840000000000007,20.0,4.73
+Honoria Pollak,Female,United States,03/14/2021,4.28,20.0,5.35
+Elmira Hardaway,Male,United States,03/10/2021,6.128,20.0,7.66
+Gayler Farge,Male,United States,03/26/2021,6.144,20.0,7.68
+Giraldo Meeny,Male,France,03/08/2021,2.5760000000000005,20.0,3.22
+Mikaela Barlee,Male,France,03/24/2021,7.328,20.0,9.16
+Jannel Duckels,Male,United States,03/07/2021,9.98,0.0,9.98
+Silvia Daverin,Male,Canada,03/18/2021,7.848000000000001,20.0,9.81
+Arnaldo Eccleshare,Female,Canada,03/02/2021,7.83,0.0,7.83
+Beulah McIlroy,Female,France,03/05/2021,9.37,0.0,9.37
+Micheline Vobes,Female,United States,03/18/2021,3.3040000000000003,20.0,4.13
+Juan Jiru,Male,France,03/28/2021,2.7680000000000002,20.0,3.46
+Bili MacClenan,Female,France,03/28/2021,2.656,20.0,3.32
+Foster Brosoli,Male,United States,03/21/2021,9.81,0.0,9.81
+Kellyann Sarll,Female,United States,03/13/2021,5.5600000000000005,20.0,6.95
+Seymour Sidebotham,Female,United States,03/25/2021,7.95,0.0,7.95
+Darrell Bumford,Female,United States,03/19/2021,6.05,0.0,6.05
+Nonnah Dibling,Male,United States,03/22/2021,7.224,20.0,9.03
+Nealon Ucchino,Female,United States,03/11/2021,8.96,0.0,8.96
+Tess Saywell,Female,United States,03/15/2021,5.61,0.0,5.61
+Ashton Hollow,Female,Canada,03/21/2021,4.64,0.0,4.64
+Beale Tunnicliffe,Female,Canada,03/18/2021,6.176,20.0,7.72
+Lorelei Nern,Female,France,03/22/2021,6.072,20.0,7.59
+Dukie Fontaine,Male,France,03/10/2021,2.64,20.0,3.3
+Verge Swynfen,Female,United States,03/27/2021,6.344,20.0,7.93
+Gwenny Fagence,Male,France,03/22/2021,4.24,20.0,5.3
+Iain Espino,Female,France,03/23/2021,7.37,0.0,7.37
+Jed Nunns,Female,United States,03/12/2021,6.76,20.0,8.45
+Torey Trye,Male,Canada,03/24/2021,2.584,20.0,3.23
+Kirbie Metzig,Female,France,03/09/2021,6.13,0.0,6.13
+Delia Moule,Female,France,03/11/2021,6.09,0.0,6.09
+Wenona Budnik,Male,United States,03/04/2021,6.312,20.0,7.89
+Artemis Bernhardsson,Female,France,03/20/2021,7.48,20.0,9.35
+Margareta Sellack,Female,France,03/29/2021,4.752000000000001,20.0,5.94
+Liva Larder,Male,France,03/09/2021,6.912000000000001,20.0,8.64
+Brett Rutherford,Female,France,03/09/2021,8.35,0.0,8.35
+Evan Fusedale,Female,United States,03/22/2021,4.904,20.0,6.13
+Thedrick Dunckley,Female,United States,03/28/2021,4.752000000000001,20.0,5.94
+Shandie Vasyutin,Female,France,03/20/2021,6.048,20.0,7.56
+Prue Stango,Male,United States,03/27/2021,7.7,0.0,7.7
+Brandea Adanet,Female,France,03/28/2021,6.344,20.0,7.93
+Morse MacCosty,Male,France,03/20/2021,2.456,20.0,3.07
+Hadleigh Vella,Female,United States,03/25/2021,6.69,0.0,6.69
+Lynne Bagger,Male,United States,03/22/2021,7.5200000000000005,20.0,9.4
+Cart Cristoforo,Female,United States,03/13/2021,7.816,20.0,9.77
+Trudy Algy,Female,France,03/07/2021,9.16,0.0,9.16
+Elspeth Jaffrey,Male,France,03/02/2021,7.97,0.0,7.97
+Sarine Gilkes,Female,France,03/05/2021,4.736,20.0,5.92
+Marilyn McKiernan,Male,Canada,03/16/2021,3.3840000000000003,20.0,4.23
+Arabelle Attock,Male,United States,03/25/2021,3.44,20.0,4.3
+Dorie Bruckent,Male,United States,03/04/2021,7.95,0.0,7.95
+Ame Guinan,Female,United States,03/26/2021,3.71,0.0,3.71
+Adelice Tillerton,Female,France,03/29/2021,9.55,0.0,9.55
+Dody Jakubovics,Female,Canada,03/15/2021,4.36,0.0,4.36
+Abrahan Osant,Female,United States,03/27/2021,3.512,20.0,4.39
+Devan Kamena,Female,Canada,03/09/2021,5.800000000000001,20.0,7.25
+Margie Summons,Female,United States,03/26/2021,4.84,20.0,6.05
+Aridatha Morse,Male,United States,03/29/2021,2.648,20.0,3.31
+Nehemiah Kitcherside,Male,United States,03/07/2021,6.76,0.0,6.76
+Leroi Latus,Female,France,03/02/2021,4.152,20.0,5.19
+Sax Prichet,Female,France,03/03/2021,3.73,0.0,3.73
+Bartolemo Veelers,Male,Canada,03/18/2021,6.208,20.0,7.76
+Miquela Geator,Male,France,03/21/2021,5.736000000000001,20.0,7.17
+Cari Henze,Male,France,03/21/2021,6.24,20.0,7.8
+Marty Scad,Female,United States,03/20/2021,6.46,0.0,6.46
+Aaren Yesinin,Female,United States,03/07/2021,6.728000000000001,20.0,8.41
+Rhianon McGrale,Male,Morocco,03/03/2021,3.568,20.0,4.46
+Yvonne Longworthy,Female,France,03/29/2021,9.16,0.0,9.16
+Dukey Espinal,Male,United States,03/05/2021,3.2560000000000002,20.0,4.07
+Patrice Barr,Male,United States,03/13/2021,4.960000000000001,20.0,6.2
+Yves Botler,Female,United States,03/07/2021,4.88,20.0,6.1
+Shep Thorburn,Male,France,03/19/2021,5.616,20.0,7.02
+Elihu Crush,Male,Morocco,03/07/2021,4.04,20.0,5.05
+Maurene Guilloneau,Male,France,03/04/2021,9.19,0.0,9.19
+Ossie Snelle,Male,France,03/22/2021,4.31,0.0,4.31
+Carolyne Bruntjen,Female,France,03/17/2021,4.544,20.0,5.68
+Duff Errigo,Female,France,03/24/2021,3.63,0.0,3.63
+Betty Stickels,Male,United States,03/13/2021,6.032,20.0,7.54
+Paquito Tesoe,Male,United States,03/17/2021,5.81,0.0,5.81
