@@ -1,0 +1,3 @@
+SQL> select a.matcle,b.matwor, trim(c.NUDOSS),trim(c.SOCDOS),trim(c.PGPDOS),trim(c.SOCCLE),trim(c.MATCLE),trim(c.IDGPRG),trim(c.TYPDOS),trim(c.BLOB01),trim(c.NOMPAT),trim(c.PARTIC),trim(c.INITIA),trim(c.N05TRI),trim(c.VALID5),trim(c.PRENOM),trim(c.PRENO2),trim(c.NMMD02),trim(c.VALID6),trim(c.QUALIT),trim(c.NOMUSE),trim(c.PARTUS),trim(c.INITUS),trim(c.N07TRI),trim(c.NMNICK),trim(c.NMLSP1),trim(c.NMLSP2),trim(c.VALIDE),trim(c.PRENEC) from zy00 a, zywo b, ZY00 c where a.nudoss = b.nudoss and a.nudoss = c.nudoss ;
+000227 ;W00010035 ;55 ;FRP;0 ;FRP;000227 ;0 ;SAL;0;THUEUX ; ; ;THUEUX ;1;LYDIE ; ; ;1;2;DUPONT ; ; ;DUPONT ; ; ; ;1;
+000232 ;W00010037 ;57 ;FRP;0 ;FRP;000232 ;0 ;SAL;0;THIRIET ; ; ;THIRIET ;1;DELPHINE ; ; ;1;2;LEFEVRE ;ADP ; ;LEFEVRE ; ; ; ;1;
